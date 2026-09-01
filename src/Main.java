@@ -1,7 +1,7 @@
 /**
  * Clase ejecutable para probar la lógica de Estudiante.
  * 
- * @author TU NOMBRE Y CÉDULA
+ * @author Carlos Barria - 8-2025-1008 - Angel Diaz - 8-1047-925
  */
 public class Main {
 
