@@ -1,7 +1,7 @@
 /**
  * Clase que representa a un estudiante y gestiona sus notas académicas.
  * 
- * @author TU NOMBRE Y CÉDULA
+ * @author Carlos Barria - 8-2025-1008 - Angel Diaz - 8-1047-925
  * @version 1.0
  */
 public class Estudiante {
